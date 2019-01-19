@@ -1,2 +1,2 @@
 # zainblog
-simple blog using php+mysql
+simple blog using php+mysql+redis
