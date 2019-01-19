@@ -1,0 +1,110 @@
+body {
+    background: #e3e3e3;
+    color:#333;
+    font-family: "Microsoft Yahei";
+}
+.container.main {
+    background: #fff;
+    border-radius: 6px;
+    padding-top: 20px;
+    border:1px solid #ccc;
+    box-shadow: #ccc 3px 3px 3px;
+}
+.sidebar {
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    padding:10px 20px;
+    margin-bottom:20px;
+}
+.sidebar h4 {
+    margin-top:20px;
+}
+.posts h5 {
+    font-size:13px;
+    color:#888;
+}
+a:visited {
+    color:#666;
+}
+.syntaxhighlighter, .syntaxhighlighter td.code .line{
+    word-break: break-all;
+}
+.video-js {
+    max-width:100%;
+}
+.posts {
+    background: #fff;
+}
+
+.navbar-default a.navbar-brand {
+    text-shadow: 1px 1px 1px #eee;
+    font-size:2em;
+    color:#59A3E1;
+    font-weight: bold;
+}
+.navbar-collapse .navbar-form {
+    border:0;
+}
+.header .navbar-default {
+    background: #fcfcfc;
+    border:none;
+    border-radius:0;
+    box-shadow: darkgrey 1px 1px 1px;
+}
+
+.footer {
+    background: #444;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    color: #bbb;
+    text-align: center;
+}
+
+.post {
+    margin-bottom: 40px;
+}
+
+hr {
+    margin: 0;
+    padding: 4px 0 10px;
+    height: 1px;
+    border-top: 1px dashed #ccc;
+}
+
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical > .btn-group:before, .btn-group-vertical > .btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
+    display: block;
+}
+
+.posts {
+    background: #fff;
+}
+.reply {
+    margin-top:20px;
+}
+.comment {
+    margin-bottom:10px;
+    border-bottom:1px solid #ccc;
+    padding-left: 15px;
+}
+.comment a {
+    margin-left:15px;
+}
+.comment-header {
+    font-size:16px;
+    margin-bottom:20px;
+}
+.comment-body img {
+    margin-right:10px;
+    margin-top:3px;
+    width: 40px;
+    height: 40px;
+}
+.comment-body h5 {
+    font-size:12px;
+    margin-top:0;
+    margin-bottom:5px;
+}
+.comment-body h5 strong {
+    font-size:14px;
+}

@@ -1,0 +1,22 @@
+{
+    "name": "zain/zainblog",
+    "authors": [
+        {
+            "name": "zain",
+            "email": "zain@zainboy.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.4",
+        "duncan3dc/blade": "^3.4",
+        "athens/csrf": "^2.1",
+        "monolog/monolog": "^1.22",
+        "illuminate/pagination": "^5.4",
+        "lcobucci/jwt": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zain\\":"app/zain"
+        }
+    }
+}
